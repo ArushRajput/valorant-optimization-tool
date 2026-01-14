@@ -86,7 +86,7 @@ This tool provides both automated and manual optimization options through an int
 ### Option 2: Run from Source
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ArushSengar/valorant-optimization-tool.git
+   git clone https://github.com/ArushRajput/valorant-optimization-tool.git
    cd valorant-optimization-tool
    ```
 
