@@ -210,7 +210,7 @@ See [LICENSE](LICENSE) for full details.
 
 **ArushSengar**
 
-- GitHub: [@ArushSengar](https://github.com/ArushSengar)
+- GitHub: [@ArushSengar](https://github.com/ArushRajput)
 - Created: 2026
 
 ---
