@@ -1,0 +1,8 @@
+# Valorant Optimization Tool Pro - Dependencies
+# Python 3.8+ required
+
+# GUI Framework
+tkinter-tooltip>=2.0.0
+
+# Note: tkinter comes pre-installed with Python on Windows
+# If tkinter is missing, reinstall Python with "tcl/tk and IDLE" option checked
